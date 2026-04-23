@@ -53,6 +53,11 @@
   padding: 20px;
 }
 
+.members-section ul,
+.members-section p {
+  align-self: flex-start;
+}
+
 .preview-images {
   display: flex;
   flex-direction: column;
