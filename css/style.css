@@ -88,3 +88,16 @@ footer {
   margin: 0 auto;
   background-color: black;
 }
+
+h1 {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+p,
+ul {
+  font-size: 13px;
+}
