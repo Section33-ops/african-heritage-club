@@ -54,18 +54,13 @@
   border-radius: 5px;
 }
 
-.members-section ul,
-.members-section p {
-  align-self: flex-start;
-}
-
 .preview-images {
   display: flex;
   flex-direction: column;
   gap: 20px;
   padding: 20px;
 }
-- .gallery-button {
+.gallery-button {
   text-decoration: none;
   font-size: 14px;
   font-weight: bold;
